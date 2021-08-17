@@ -1,0 +1,10 @@
+body {
+    background: lavenderblush;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    border-radius: 10px;
+    border-color: purple;
+}
